@@ -1,3 +1,3 @@
 # Calculator
-teamwork for one day
-#a simple calculator with a few functions (　 ´-ω ･)▄︻┻┳══━一
+teamwork for one day <br>
+a simple calculator with a few functions (　 ´-ω ･)▄︻┻┳══━一
